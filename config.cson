@@ -1,0 +1,16 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    invisibles:
+      space: "#"
+    showInvisibles: true
+  "exception-reporting":
+    userId: "13f35b79-6576-431d-a59e-78d75c2a9543"
+  "linter-ui-default":
+    showPanel: true
+  "tree-view": {}
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
+  welcome:
+    showOnStartup: false
