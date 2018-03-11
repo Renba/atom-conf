@@ -13,9 +13,7 @@ lint@0.0.1
 linter@2.2.0
 linter-ui-default@1.6.10
 multi-cursor@2.1.5
-my-package@0.0.0
 rails-snippets@2.17.0
 rails-transporter@1.7.1
 react@0.18.0
 wakatime@7.0.4
-
